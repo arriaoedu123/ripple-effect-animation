@@ -1,3 +1,10 @@
+/*
+# Creator: Aryon Rabello
+# GitHub: https://github.com/arriaoedu123/
+# Creation date: 18/11/2021
+# Version: 1.0
+*/
+
 var buttons = document.querySelectorAll(".ripple").length
 
 for (let i = 0; i < buttons; i++) {
